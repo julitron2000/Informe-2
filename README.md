@@ -29,7 +29,7 @@ Los pasos para determinar las corrientes de lazo son:
 1. Asigne las corrientes de lazo i1
 , i2
 , …, in a los n lazos.
-2. Aplique la LTK a cada uno de los n lazos. Use la ley de Ohm para expresar las tensiones en términos de las corrientes de lazo.
+2. Aplique la LVK a cada uno de los n lazos. Use la ley de Ohm para expresar las tensiones en términos de las corrientes de lazo.
 3. Resuelva las n ecuaciones simultáneas resultantes para obtener las
 corrientes de lazo
 
@@ -61,8 +61,7 @@ Ley de Ohm La ley de Ohm es ley fundamental para el análisis de circuitos elect
 ## 9. CRONOGRAMA
 
 ## 10. BIBLIOGRAFÍA
-
-Emplear normas APA para el informe e IEEE para el artículo
+-M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición), Capítulo 1-2.
 
 ## 11. ANEXOS
 
