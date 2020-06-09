@@ -46,10 +46,10 @@ corrientes de lazo
 
 -Armar el circutio de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
--Fijarnos bien al medir las corrientes, ya que podemos ubicarnos mal en el protoboard y tomar datos errneos.
+-Hacer las respectivas mediciones con cuidado para no obtener datos errónes.
 
 ## 10. BIBLIOGRAFÍA
--M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición), Capítulo 1-2.
+-M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición).
 
 ## 11. ANEXOS
 
