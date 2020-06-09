@@ -49,8 +49,7 @@ corrientes de lazo
 -Fijarnos bien al medir las corrientes, ya que podemos ubicarnos mal en el protoboard y tomar datos errneos.
 
 ## 10. BIBLIOGRAFÍA
-
-Emplear normas APA para el informe e IEEE para el artículo
+-M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición), Capítulo 1-2.
 
 ## 11. ANEXOS
 
