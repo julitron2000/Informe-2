@@ -1,6 +1,4 @@
-# Informe 2
-Análisis de Mallas
-
+# Informe N°2 ANÁLISIS DE MALLAS
 
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
