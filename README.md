@@ -12,7 +12,23 @@ Al momento de analizar circuitos, frecuentemente, se presentan casos en los que 
 - Medir y registrar las corrientes en cada malla del circuito.
 
 ## 3. MARCO TEÓRICO 
+Un circuito plano se define como un circuito hecho de tal manera que ninguna rama quede por debajo o por encima de ninguna otra rama.
 
+![](https://analisisdecircuitos1.files.wordpress.com/2014/08/screenshot2971.jpg)
+
+Una malla se define como un lazo o trayectoria cerrada que no contiene ningún otro lazo dentro de él.
+
+![image](https://user-images.githubusercontent.com/64505672/84105970-8147f800-a9df-11ea-8741-528e05bfa70d.png)
+
+
+El método de Mallas es un método utilizado para resolver circuitos planos
+Pasos para determinar las corrientes de lazo:
+1. Asigne las corrientes de lazo i1
+, i2
+, …, in a los n lazos.
+2. Aplique la LTK a cada uno de los n lazos. Use la ley de Ohm para expresar las tensiones en términos de las corrientes de lazo.
+3. Resuelva las n ecuaciones simultáneas resultantes para obtener las
+corrientes de lazo
 
 ## 4. DIAGRAMAS
 
