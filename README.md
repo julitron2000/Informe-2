@@ -44,7 +44,7 @@ corrientes de lazo
 
 ## 9.RECOMENDACIONES
 
--Armar el circutio de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
+-Armar el circuito de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
 -Hacer las respectivas mediciones con cuidado para no obtener datos errónes.
 
