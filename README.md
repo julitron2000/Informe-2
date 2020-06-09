@@ -52,6 +52,5 @@ corrientes de lazo
 ## 10. BIBLIOGRAFÍA
 -M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición).
 
-## 11. ANEXOS
 
  
