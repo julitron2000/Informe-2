@@ -35,6 +35,7 @@ corrientes de lazo
 ## 5. LISTA DE COMPONENTES
 ## 7. CRONOGRAMA
 
+
 ## 8.CONCLUSIONES
 -Los valores obtenidos de error de medición, del teórico con respecto al experimental son muy pequeños y depende factores como el instrumento con el que se mide, la tolerancia de nuestras resistencias y la energía suministrada por nuestra fuente de voltaje.
 
@@ -45,14 +46,6 @@ corrientes de lazo
 -Armar el circutio de una forma didáctica para que todos puedan entender el funcionamiento del mismo.
 
 -Fijarnos bien al medir las corrientes, ya que podemos ubicarnos mal en el protoboard y tomar datos errneos.
-
-## 6.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
-
-
-## 8. RECOMENDACIONES
-
-
-## 9. CRONOGRAMA
 
 ## 10. BIBLIOGRAFÍA
 
