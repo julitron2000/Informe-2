@@ -5,8 +5,7 @@ AUTORES: DAVID HINOJOSA,
          JULIO ROSERO
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
-
-
+Al momento de analizar circuitos, frecuentemente, se presentan casos en los que es indispensable aplicar un análisis por método de mallas, por lo que conocer y saber utilizar este método debe ser un requisito necesario para realizar cualquier análisis de un circuito tanto en la práctica como en la teoría.
 
 ## 2. OBJETIVOS
 
