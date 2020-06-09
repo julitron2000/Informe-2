@@ -37,6 +37,4 @@ Emplear normas APA para el informe e IEEE para el artículo
 
 ## 11. ANEXOS
 
-## 11.1 HOJAS TÉCNICAS
-
  
