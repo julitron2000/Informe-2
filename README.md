@@ -21,6 +21,7 @@ Una malla se define como un lazo o trayectoria cerrada que no contiene ningún o
 ![image](https://user-images.githubusercontent.com/64505672/84106123-ebf93380-a9df-11ea-8d54-332421d6126a.png)
 
 El método de Mallas es un método utilizado para resolver circuitos planos.
+
 Los pasos para determinar las corrientes de lazo son:
 1. Asigne las corrientes de lazo i1
 , i2
