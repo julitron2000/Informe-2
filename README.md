@@ -35,6 +35,8 @@ corrientes de lazo
 
 ## 5. LISTA DE COMPONENTES
 
+## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
+
 ## 7. CRONOGRAMA
 ![0002](https://user-images.githubusercontent.com/66037557/84161169-98fd9b80-aa34-11ea-8945-b2883860b645.jpg)
 
