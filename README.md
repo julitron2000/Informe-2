@@ -34,6 +34,7 @@ corrientes de lazo
 
 
 ## 5. LISTA DE COMPONENTES
+
 ## 7. CRONOGRAMA
 ![0002](https://user-images.githubusercontent.com/66037557/84161169-98fd9b80-aa34-11ea-8945-b2883860b645.jpg)
 
@@ -50,7 +51,10 @@ corrientes de lazo
 -Hacer las respectivas mediciones con cuidado para no obtener datos errónes.
 
 ## 10. BIBLIOGRAFÍA
+
 -M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición).
+
+-Allan, H.Robbins, Análisis de Circuitos. Teoría y práctica(4ta Edición), 2008.
 
 
  
