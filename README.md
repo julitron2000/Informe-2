@@ -87,7 +87,8 @@ H. Protoboard
 Se tiene el circuito propuesto y se procedió a realizar las mediciones de caída de voltaje en función de las respectivas corrientes que pasan por cada malla. Para más adelante resolver un sistema de 3 ecuaciones con 3 incógnitas. 
 
 
-![WINWORD_UQe0yFsSPQ](https://user-images.githubusercontent.com/66037763/84238468-b6784700-aac0-11ea-8fb2-74f239a85c10.png)
+![WINWORD_gH5Kq8tgYD](https://user-images.githubusercontent.com/66037763/84239112-a3b24200-aac1-11ea-97bf-b80464cfeed6.png)
+
 
 Se obtuvo los valores medidos, calculados y simulados, y se registró en la siguiente tabla.
 
