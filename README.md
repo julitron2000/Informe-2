@@ -2,7 +2,7 @@
 
 AUTORES: DAVID HINOJOSA,
          JAVIER DELGADO,
-         JULIO ROSERO
+         JULIO ROSERO.
 
 ## 1. PLANTEAMIENTO DEL PROBLEMA
 Al momento de analizar circuitos, frecuentemente, se presentan casos en los que es indispensable aplicar un análisis por método de mallas, por lo que conocer y saber utilizar este método debe ser un requisito necesario para realizar cualquier análisis de un circuito tanto en la práctica como en la teoría.
@@ -40,9 +40,9 @@ corrientes de lazo
 
 
 ## 8.CONCLUSIONES
--Los valores obtenidos de error de medición, del teórico con respecto al experimental son muy pequeños y depende factores como el instrumento con el que se mide, la tolerancia de nuestras resistencias y la energía suministrada por nuestra fuente de voltaje.
+-El valor obtenido del error experimental porcentual es de 0.29%, y se atribuye a factores como la presición del instrumento con el que se realiza las mediciones, la tolerancia que poseen las resistencias y el suministro de energía.
 
--Tras elaboración de la practica pudimos observar y comprobar que nuestros datos  experimentales y analíticos son muy cercanos entre sí, concluyendo así que las leyes de mallas de kirchoff se cumplen en nuestro circuito.
+-Tras elaboración de la practica pudimos observar y comprobar que nuestros datos experimentales y analíticos son muy cercanos entre sí, concluyendo así que las leyes de mallas de kirchoff se cumplen en nuestro circuito.
 
 ## 9.RECOMENDACIONES
 
@@ -52,7 +52,7 @@ corrientes de lazo
 
 ## 10. BIBLIOGRAFÍA
 
--M.Sadiku, C.Alexander (2004), Fundamentos de circuitos eléctricos (3ra Edición).
+-M.Sadiku, C.Alexander, Fundamentos de circuitos eléctricos (3ra Edición), 2004.
 
 -Allan, H.Robbins, Análisis de Circuitos. Teoría y práctica(4ta Edición), 2008.
 
