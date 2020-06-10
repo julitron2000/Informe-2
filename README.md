@@ -32,10 +32,70 @@ corrientes de lazo
 
 ## 4. DIAGRAMAS
 
+![WINWORD_UQe0yFsSPQ](https://user-images.githubusercontent.com/66037763/84236229-f2a9a880-aabc-11ea-9cdd-f8f1072979fe.png)
+
+El circuito base del cual se hace el respectivo análisis de mallas. Los nodos encerrados en rojo son referencia para la creación del circuito en simuladores. Se encuentra también graficados dentro de las mallas, las corrientes con la asumida dirección inicial que cada una tiene. 
+Dentro del circuito el voltaje parte de dos fuentes ubicadas paralelamente en mallas distintas, la primera de 18v se encuentra en serie con el resistor de 820ohm, mientras que la otra de 5v está a su vez en serie con un resistor de 390ohm.
 
 ## 5. LISTA DE COMPONENTES
+A. Fuente de Voltaje de C.D.
+
+
+![chrome_FxjHlWp3kM](https://user-images.githubusercontent.com/66037763/84236034-96df1f80-aabc-11ea-9159-3d2235bc315b.png)
+
+
+B. Multímetro Digital
+
+![chrome_1E7H2m0GOE](https://user-images.githubusercontent.com/66037763/84236069-a6f6ff00-aabc-11ea-90f8-49d128847e17.png)
+
+
+C. Resistor de 820 Ω
+
+
+![chrome_H59RekD0Sn](https://user-images.githubusercontent.com/66037763/84236097-b4ac8480-aabc-11ea-88e9-0930cd8a6151.png)
+
+
+D. Resistor de 390 Ω
+
+
+![chrome_nYj42XTcAA](https://user-images.githubusercontent.com/66037763/84236121-bc6c2900-aabc-11ea-9052-20d1e126c649.png)
+
+
+E. Resistor de 1 kΩ
+
+
+![chrome_jPVmQCB5dn](https://user-images.githubusercontent.com/66037763/84236149-cbeb7200-aabc-11ea-96d9-4b01e8f8ef81.png)
+
+
+F. Resistor de 1.2 kΩ
+
+
+![chrome_RgP3H68Ui2](https://user-images.githubusercontent.com/66037763/84236162-d60d7080-aabc-11ea-864d-536485900f86.png)
+
+
+G. Resistor de 2.2 kΩ
+
+![chrome_u6waqAZiNN](https://user-images.githubusercontent.com/66037763/84236192-e0c80580-aabc-11ea-9767-487481f78259.png)
+
+
+H. Protoboard
+
+![chrome_gnkRWUT4Si](https://user-images.githubusercontent.com/66037763/84236208-e9b8d700-aabc-11ea-9985-2e94ef9d6adb.png)
+
 
 ## 6. DESCRIPCION DE PREREQUISITOS Y CONFIGURACION
+Se tiene el circuito propuesto y se procedió a realizar las mediciones de caída de voltaje en función de las respectivas corrientes que pasan por cada malla. Para más adelante resolver un sistema de 3 ecuaciones con 3 incógnitas. 
+
+
+![WINWORD_UQe0yFsSPQ](https://user-images.githubusercontent.com/66037763/84238468-b6784700-aac0-11ea-8fb2-74f239a85c10.png)
+
+Se obtuvo los valores medidos, calculados y simulados, y se registró en la siguiente tabla.
+
+
+![chrome_U2wfQuI7Pj](https://user-images.githubusercontent.com/66037763/84238414-a52f3a80-aac0-11ea-8129-609c0742c5c8.png)
+
+
+Gracias a la tabla se vuelve relativamente sencilla la comparación e interpretación de los resultados obtenidos en el experimento.
 
 ## 7. CRONOGRAMA
 ![0002](https://user-images.githubusercontent.com/66037557/84161169-98fd9b80-aa34-11ea-8945-b2883860b645.jpg)
