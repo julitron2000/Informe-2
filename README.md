@@ -42,7 +42,7 @@ corrientes de lazo
 ## 8.CONCLUSIONES
 -El valor obtenido del error experimental porcentual es de 0.29%, y se atribuye a factores como la presición del instrumento con el que se realiza las mediciones, la tolerancia que poseen las resistencias y el suministro de energía.
 
--Tras elaboración de la practica pudimos observar y comprobar que nuestros datos experimentales y analíticos son muy cercanos entre sí, concluyendo así que las leyes de mallas de kirchoff se cumplen en nuestro circuito.
+-Tras la elaboración de la practica pudimos observar y comprobar que nuestros datos experimentales y analíticos son muy cercanos entre sí, concluyendo así que las leyes de mallas de kirchoff se cumplen en nuestro circuito.
 
 ## 9.RECOMENDACIONES
 
